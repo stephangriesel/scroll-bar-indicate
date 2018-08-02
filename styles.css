@@ -20,9 +20,9 @@ header {
 }
 
 .scroll-line {
-    height:2px;
-    margin-bottom:-2px;
-    background:#FFFFFF;
+    height:4px;
+    margin-bottom:-4px;
+    background:rgb(212, 250, 106);
     width:0%;
 }
 
